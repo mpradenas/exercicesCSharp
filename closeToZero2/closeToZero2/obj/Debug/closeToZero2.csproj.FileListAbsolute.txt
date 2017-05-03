@@ -1,0 +1,6 @@
+c:\users\mario\documents\visual studio 2013\Projects\closeToZero2\closeToZero2\bin\Debug\closeToZero2.exe.config
+c:\users\mario\documents\visual studio 2013\Projects\closeToZero2\closeToZero2\bin\Debug\closeToZero2.exe
+c:\users\mario\documents\visual studio 2013\Projects\closeToZero2\closeToZero2\bin\Debug\closeToZero2.pdb
+c:\users\mario\documents\visual studio 2013\Projects\closeToZero2\closeToZero2\obj\Debug\closeToZero2.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2013\Projects\closeToZero2\closeToZero2\obj\Debug\closeToZero2.exe
+c:\users\mario\documents\visual studio 2013\Projects\closeToZero2\closeToZero2\obj\Debug\closeToZero2.pdb
